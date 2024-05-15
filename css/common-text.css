@@ -1,0 +1,21 @@
+.fa-shield {
+  font-size: 50px;
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.btn-space {
+  margin-right: 10px;
+}
+
+.logo {
+  display: inline-block;
+}
+
+.logo-img {
+  max-width: 10px; /* Adjust this value as needed */
+  height: min-content;
+}
